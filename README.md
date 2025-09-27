@@ -34,7 +34,4 @@ The model learns from past temperature data to predict future values.
 The model successfully learned temporal patterns from the dataset  
 and produced accurate forecasts for unseen data.
 
----
-
-**Author**: Dea Amelia
 
