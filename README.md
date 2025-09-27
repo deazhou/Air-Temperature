@@ -36,6 +36,5 @@ and produced accurate forecasts for unseen data.
 
 ---
 
-**Author**: Dea Di Natha
-**Course**: Deep Learning Final Exam  
-**Institution**: BINUS University
+**Author**: Dea Amelia
+
